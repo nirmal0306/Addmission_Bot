@@ -54,10 +54,15 @@ Research Experience (0: No, 1: Yes)
 
 # 🗣 Example Conversation
 You: hi
+
 Bot: Hello! Ready to check your admission chances?
+
 Bot: Please enter your GRE score:
+
 ...
+
 Bot: Your predicted chance of admission is 78.45%
+
 Bot: You have good chances at universities like Georgia Tech, UCLA, or University of Michigan.
 
 # 📁 Project Structure
