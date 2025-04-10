@@ -61,9 +61,13 @@ Bot: You have good chances at universities like Georgia Tech, UCLA, or Universit
 
 # 📁 Project Structure
 admission-bot/
+
 ├── train_model.py       # Trains the ML model
+
 ├── admission_gui.py     # GUI with chatbot logic
+
 ├── admission_model.pkl  # Saved ML model
+
 ├── README.md            # This file
 
 # 🙌 Created By
