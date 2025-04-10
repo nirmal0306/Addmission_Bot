@@ -19,6 +19,7 @@ Welcome to **Admission Prediction Bot**, your smart assistant for estimating you
 
 # 1. Clone or Download the Repository
 git clone https://github.com/nirmal0306/Addmission_Bot.git
+
 cd admission-bot
 
 
