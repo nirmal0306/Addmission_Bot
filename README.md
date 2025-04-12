@@ -25,14 +25,17 @@ cd admission-bot
 
 # 2 Install Dependencies
 Make sure you have Python installed. Then install the required Python libraries:
+
 pip install numpy tkinter pyttsx3 SpeechRecognition
 
 # 3. Train the ML Model
 Run this command to train and save the admission prediction model:
+
 python train_model.py
 
 # 4. Start the Chatbot GUI
 Once the model is trained, launch the chatbot interface with:
+
 python admission_gui.py
 
 # 🧪 Input Features
